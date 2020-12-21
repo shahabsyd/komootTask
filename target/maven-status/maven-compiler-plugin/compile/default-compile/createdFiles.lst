@@ -1,0 +1,8 @@
+de/komoot/webdriver/pageobject/homepage/DiscoverPage.class
+de/komoot/webdriver/configuration/ConfigurationConstant.class
+de/komoot/webdriver/pageobject/BasePage.class
+de/komoot/webdriver/pageobject/homepage/HomePage.class
+de/komoot/webdriver/pageobject/homepage/SettingsPage.class
+de/komoot/webdriver/Utils/CommonUtils.class
+de/komoot/webdriver/configuration/ConfigurationEnvironment.class
+de/komoot/webdriver/pageobject/homepage/LoginPage.class

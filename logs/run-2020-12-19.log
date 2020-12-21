@@ -1,0 +1,133 @@
+2020-12-19T18:08:49,722 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T18:08:50,067 [main] [] INFO  selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2020-12-19T18:08:50,075 [main] [] INFO  selenide.impl.FileHelper - Creating folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608397730068_88923_1
+2020-12-19T18:08:51,880 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
+2020-12-19T18:08:51,925 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2020-12-19T18:08:52,531 [main] [] INFO  bonigarcia.wdm.online.Downloader - Downloading https://chromedriver.storage.googleapis.com/87.0.4280.88/chromedriver_mac64.zip
+2020-12-19T18:08:53,167 [main] [] INFO  bonigarcia.wdm.online.Downloader - Extracting binary from compressed file chromedriver_mac64.zip
+2020-12-19T18:08:53,302 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/fromatob/.m2/repository/webdriver/chromedriver/mac64/87.0.4280.88/chromedriver
+2020-12-19T18:08:53,516 [main] [] INFO  selenide.webdriver.AbstractDriverFactory - Write webdriver logs to: /Users/fromatob/Desktop/Komoot/target/reports/webdriver.1608397733511_88923_1.log
+2020-12-19T18:08:57,541 [main] [] INFO  selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=87.0.4280.88 Platform=MAC
+2020-12-19T18:08:57,541 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenide v. 5.14.0
+2020-12-19T18:08:57,541 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+2020-12-19T18:08:57,544 [main] [] INFO  selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on MAC (235cfc964bfa1b234830bfaef44d50f1)
+2020-12-19T18:08:59,024 [Thread-1] [] INFO  selenide.impl.FileHelper - Deleted empty folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608397730068_88923_1
+2020-12-19T18:08:59,024 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 26 -> ChromeDriver: chrome on MAC (235cfc964bfa1b234830bfaef44d50f1)
+2020-12-19T19:31:53,254 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T19:32:17,259 [main] [] INFO  selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2020-12-19T19:32:17,310 [main] [] INFO  selenide.impl.FileHelper - Creating folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608402737260_89240_1
+2020-12-19T19:32:24,577 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
+2020-12-19T19:32:25,029 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/fromatob/.m2/repository/webdriver/chromedriver/mac64/87.0.4280.88/chromedriver
+2020-12-19T19:32:28,171 [main] [] INFO  selenide.webdriver.AbstractDriverFactory - Write webdriver logs to: /Users/fromatob/Desktop/Komoot/target/reports/webdriver.1608402748168_89240_1.log
+2020-12-19T19:32:43,440 [main] [] INFO  selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=87.0.4280.88 Platform=MAC
+2020-12-19T19:32:43,441 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenide v. 5.14.0
+2020-12-19T19:32:43,442 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+2020-12-19T19:32:43,444 [main] [] INFO  selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on MAC (9acf3f2b31aa20dd216242cb1cb34bde)
+2020-12-19T19:34:02,449 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 27 -> ChromeDriver: chrome on MAC (9acf3f2b31aa20dd216242cb1cb34bde)
+2020-12-19T19:34:02,449 [Thread-1] [] INFO  selenide.impl.FileHelper - Deleted empty folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608402737260_89240_1
+2020-12-19T19:34:12,122 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T19:34:12,406 [main] [] INFO  selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2020-12-19T19:34:12,414 [main] [] INFO  selenide.impl.FileHelper - Creating folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608402852407_89306_1
+2020-12-19T19:34:13,166 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
+2020-12-19T19:34:13,197 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/fromatob/.m2/repository/webdriver/chromedriver/mac64/87.0.4280.88/chromedriver
+2020-12-19T19:34:13,332 [main] [] INFO  selenide.webdriver.AbstractDriverFactory - Write webdriver logs to: /Users/fromatob/Desktop/Komoot/target/reports/webdriver.1608402853332_89306_1.log
+2020-12-19T19:34:16,259 [main] [] INFO  selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=87.0.4280.88 Platform=MAC
+2020-12-19T19:34:16,260 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenide v. 5.14.0
+2020-12-19T19:34:16,260 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+2020-12-19T19:34:16,260 [main] [] INFO  selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on MAC (cb1a29e8ee48158d57088e0a2409a5b1)
+2020-12-19T19:34:21,061 [main] [] INFO  webdriver.pageobject.homepage.HomePage - Opening Homepage
+2020-12-19T19:34:21,462 [main] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 1 -> ChromeDriver: chrome on MAC (cb1a29e8ee48158d57088e0a2409a5b1)
+2020-12-19T19:34:21,484 [Thread-3] [] INFO  selenide.drivercommands.CloseDriverCommand - Trying to close the browser ChromeDriver ...
+2020-12-19T19:34:21,673 [main] [] INFO  selenide.drivercommands.CloseDriverCommand - Closed webdriver 1 in 210 ms
+2020-12-19T19:34:21,684 [Thread-1] [] INFO  selenide.impl.FileHelper - Deleted empty folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608402852407_89306_1
+2020-12-19T19:34:21,684 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 26 -> ChromeDriver: chrome on MAC (null)
+2020-12-19T19:34:21,685 [Thread-4] [] INFO  selenide.drivercommands.CloseDriverCommand - Trying to close the browser ChromeDriver ...
+2020-12-19T19:34:21,686 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Closed webdriver 26 in 1 ms
+2020-12-19T19:35:37,675 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T19:35:37,982 [main] [] INFO  selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2020-12-19T19:35:37,988 [main] [] INFO  selenide.impl.FileHelper - Creating folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608402937982_89344_1
+2020-12-19T19:35:38,549 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
+2020-12-19T19:35:38,578 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/fromatob/.m2/repository/webdriver/chromedriver/mac64/87.0.4280.88/chromedriver
+2020-12-19T19:35:38,711 [main] [] INFO  selenide.webdriver.AbstractDriverFactory - Write webdriver logs to: /Users/fromatob/Desktop/Komoot/target/reports/webdriver.1608402938710_89344_1.log
+2020-12-19T19:35:41,728 [main] [] INFO  selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=87.0.4280.88 Platform=MAC
+2020-12-19T19:35:41,728 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenide v. 5.14.0
+2020-12-19T19:35:41,731 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+2020-12-19T19:35:41,731 [main] [] INFO  selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on MAC (4f2b6b368730202594915e548df62328)
+2020-12-19T19:35:46,049 [main] [] INFO  webdriver.pageobject.homepage.HomePage - Opening Homepage
+2020-12-19T19:35:46,439 [main] [] INFO  webdriver.homepage.HomePageTest - the is my first test
+2020-12-19T19:35:46,470 [main] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 1 -> ChromeDriver: chrome on MAC (4f2b6b368730202594915e548df62328)
+2020-12-19T19:35:46,479 [Thread-3] [] INFO  selenide.drivercommands.CloseDriverCommand - Trying to close the browser ChromeDriver ...
+2020-12-19T19:35:46,737 [main] [] INFO  selenide.drivercommands.CloseDriverCommand - Closed webdriver 1 in 267 ms
+2020-12-19T19:35:46,765 [Thread-1] [] INFO  selenide.impl.FileHelper - Deleted empty folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608402937982_89344_1
+2020-12-19T19:35:46,765 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 26 -> ChromeDriver: chrome on MAC (null)
+2020-12-19T19:35:46,767 [Thread-4] [] INFO  selenide.drivercommands.CloseDriverCommand - Trying to close the browser ChromeDriver ...
+2020-12-19T19:35:46,767 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Closed webdriver 26 in 1 ms
+2020-12-19T19:41:04,501 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T19:41:04,713 [main] [] INFO  selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2020-12-19T19:41:04,728 [main] [] INFO  selenide.impl.FileHelper - Creating folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608403264714_89411_1
+2020-12-19T19:41:05,239 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
+2020-12-19T19:41:05,266 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/fromatob/.m2/repository/webdriver/chromedriver/mac64/87.0.4280.88/chromedriver
+2020-12-19T19:41:05,396 [main] [] INFO  selenide.webdriver.AbstractDriverFactory - Write webdriver logs to: /Users/fromatob/Desktop/Komoot/target/reports/webdriver.1608403265395_89411_1.log
+2020-12-19T19:41:09,120 [main] [] INFO  selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=87.0.4280.88 Platform=MAC
+2020-12-19T19:41:09,120 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenide v. 5.14.0
+2020-12-19T19:41:09,120 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+2020-12-19T19:41:09,121 [main] [] INFO  selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on MAC (faac9dc4a7760d0cd24ecab82cd92832)
+2020-12-19T19:41:15,490 [main] [] INFO  webdriver.pageobject.homepage.HomePage - Opening Homepage
+2020-12-19T19:41:16,085 [main] [] INFO  webdriver.homepage.HomePageTest - the is my first test
+2020-12-19T19:41:16,133 [main] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 1 -> ChromeDriver: chrome on MAC (faac9dc4a7760d0cd24ecab82cd92832)
+2020-12-19T19:41:16,139 [Thread-3] [] INFO  selenide.drivercommands.CloseDriverCommand - Trying to close the browser ChromeDriver ...
+2020-12-19T19:41:16,361 [main] [] INFO  selenide.drivercommands.CloseDriverCommand - Closed webdriver 1 in 227 ms
+2020-12-19T19:41:16,373 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 26 -> ChromeDriver: chrome on MAC (null)
+2020-12-19T19:41:16,373 [Thread-1] [] INFO  selenide.impl.FileHelper - Deleted empty folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608403264714_89411_1
+2020-12-19T19:41:16,374 [Thread-4] [] INFO  selenide.drivercommands.CloseDriverCommand - Trying to close the browser ChromeDriver ...
+2020-12-19T19:41:16,375 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Closed webdriver 26 in 2 ms
+2020-12-19T19:46:08,263 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T19:46:08,509 [main] [] INFO  selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2020-12-19T19:46:08,516 [main] [] INFO  selenide.impl.FileHelper - Creating folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608403568509_89478_1
+2020-12-19T19:46:09,052 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
+2020-12-19T19:46:09,084 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/fromatob/.m2/repository/webdriver/chromedriver/mac64/87.0.4280.88/chromedriver
+2020-12-19T19:46:09,203 [main] [] INFO  selenide.webdriver.AbstractDriverFactory - Write webdriver logs to: /Users/fromatob/Desktop/Komoot/target/reports/webdriver.1608403569203_89478_1.log
+2020-12-19T19:46:12,568 [main] [] INFO  selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=87.0.4280.88 Platform=MAC
+2020-12-19T19:46:12,569 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenide v. 5.14.0
+2020-12-19T19:46:12,569 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+2020-12-19T19:46:12,570 [main] [] INFO  selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on MAC (e794492ab401f30228595ffb22ed2dd6)
+2020-12-19T19:46:18,976 [main] [] INFO  webdriver.pageobject.homepage.HomePage - Opening Homepage
+2020-12-19T19:46:19,622 [main] [] INFO  webdriver.homepage.HomePageTest - the is my first test
+2020-12-19T19:46:19,669 [main] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 1 -> ChromeDriver: chrome on MAC (e794492ab401f30228595ffb22ed2dd6)
+2020-12-19T19:46:19,697 [Thread-3] [] INFO  selenide.drivercommands.CloseDriverCommand - Trying to close the browser ChromeDriver ...
+2020-12-19T19:46:19,954 [main] [] INFO  selenide.drivercommands.CloseDriverCommand - Closed webdriver 1 in 285 ms
+2020-12-19T19:46:19,966 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 26 -> ChromeDriver: chrome on MAC (null)
+2020-12-19T19:46:19,966 [Thread-1] [] INFO  selenide.impl.FileHelper - Deleted empty folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608403568509_89478_1
+2020-12-19T19:46:19,968 [Thread-4] [] INFO  selenide.drivercommands.CloseDriverCommand - Trying to close the browser ChromeDriver ...
+2020-12-19T19:46:19,969 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Closed webdriver 26 in 3 ms
+2020-12-19T20:00:13,670 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T20:00:14,094 [main] [] INFO  selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2020-12-19T20:00:14,105 [main] [] INFO  selenide.impl.FileHelper - Creating folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608404414095_89628_1
+2020-12-19T20:00:14,797 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Using chromedriver 87.0.4280.88 (since Chrome 87 is installed in your machine)
+2020-12-19T20:00:14,827 [main] [] INFO  bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/fromatob/.m2/repository/webdriver/chromedriver/mac64/87.0.4280.88/chromedriver
+2020-12-19T20:00:14,969 [main] [] INFO  selenide.webdriver.AbstractDriverFactory - Write webdriver logs to: /Users/fromatob/Desktop/Komoot/target/reports/webdriver.1608404414969_89628_1.log
+2020-12-19T20:00:18,491 [main] [] INFO  selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=87.0.4280.88 Platform=MAC
+2020-12-19T20:00:18,491 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenide v. 5.14.0
+2020-12-19T20:00:18,492 [main] [] INFO  selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
+2020-12-19T20:00:18,492 [main] [] INFO  selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 1: ChromeDriver -> ChromeDriver: chrome on MAC (dc28f0136082756951ce00984a8b64a8)
+2020-12-19T20:00:24,369 [main] [] INFO  webdriver.pageobject.homepage.HomePage - Opening Homepage
+2020-12-19T20:00:25,087 [main] [] INFO  webdriver.homepage.HomePageTest - the is my first test
+2020-12-19T20:00:25,125 [main] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 1 -> ChromeDriver: chrome on MAC (dc28f0136082756951ce00984a8b64a8)
+2020-12-19T20:00:25,139 [Thread-3] [] INFO  selenide.drivercommands.CloseDriverCommand - Trying to close the browser ChromeDriver ...
+2020-12-19T20:00:25,324 [main] [] INFO  selenide.drivercommands.CloseDriverCommand - Closed webdriver 1 in 199 ms
+2020-12-19T20:00:25,338 [Thread-1] [] INFO  selenide.impl.FileHelper - Deleted empty folder: /Users/fromatob/Desktop/Komoot/build/downloads/1608404414095_89628_1
+2020-12-19T20:00:25,338 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Close webdriver: 26 -> ChromeDriver: chrome on MAC (null)
+2020-12-19T20:00:25,340 [Thread-4] [] INFO  selenide.drivercommands.CloseDriverCommand - Trying to close the browser ChromeDriver ...
+2020-12-19T20:00:25,340 [Thread-0] [] INFO  selenide.drivercommands.CloseDriverCommand - Closed webdriver 26 in 1 ms
+2020-12-19T22:26:53,023 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T22:30:12,035 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T22:32:31,735 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T22:38:42,420 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T22:42:04,436 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T22:47:42,547 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T23:03:17,236 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T23:03:55,222 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T23:05:57,059 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T23:06:12,605 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T23:10:45,677 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration
+2020-12-19T23:14:02,414 [main] [] INFO  webdriver.configuration.ConfigurationEnvironment - Set initial Configuration

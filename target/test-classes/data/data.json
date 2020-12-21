@@ -1,0 +1,172 @@
+[
+  {
+    "departure": "Berlin",
+    "arrival": "Hamburg",
+    "startDate": "0",
+    "intentMedia": false,
+    "connection": "ICE",
+    "description": "Booking for today"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Hamburg",
+    "startDate": "0",
+    "arrivalDate": "0",
+    "intentMedia": false,
+    "connection": "ICE",
+    "description": "One day trip for today"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Hamburg",
+    "startDate": "0",
+    "arrivalDate": "1",
+    "intentMedia": false,
+    "connection": "ICE",
+    "description": "Round trip inclick"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Hamburg",
+    "startDate": "10",
+    "arrivalDate": "12",
+    "intentMedia": false,
+    "connection": "ICE",
+    "outgoingFare": {
+      "name": "FLEXIBLE_FARE",
+      "comfortClass": 1
+    },
+    "returnFare": {
+      "name": "FLEXIBLE_FARE",
+      "comfortClass": 1
+    },
+    "description": "Round trip with Flexpreis & 1st class"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Hamburg",
+    "startDate": "10",
+    "arrivalDate": "12",
+    "intentMedia": false,
+    "connection": "ICE",
+    "outgoingFare": {
+      "name": "SAVE_FARE",
+      "comfortClass": 2
+    },
+    "returnFare": {
+      "name": "SAVE_FARE",
+      "comfortClass": 2
+    },
+    "description": "Round trip with Sparpreis & 2st class"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Hamburg",
+    "startDate": "10",
+    "arrivalDate": "12",
+    "intentMedia": false,
+    "connection": "ICE",
+    "outgoingFare": {
+      "name": "FLEXIBLE_FARE",
+      "comfortClass": 2
+    },
+    "returnFare": {
+      "name": "SAVE_FARE",
+      "comfortClass": 1
+    },
+    "description": "Round trip with Sparpreis & 1st class and Flexpreis & 2st class"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Aachen",
+    "startDate": "30",
+    "travellers": {
+      "adults": {
+        "1": "BC50-1",
+        "2": "BC50-2"
+      }
+    },
+    "intentMedia": false,
+    "connection": "ICE",
+    "description": "Single trip for 2 travelers with different BC-50 bahncards"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Aachen",
+    "startDate": "30",
+    "travellers": {
+      "adults": {
+        "1": "BC25-1",
+        "2": "BC25-2"
+      }
+    },
+    "intentMedia": false,
+    "connection": "ICE",
+    "description": "Single trip for 2 travelers with BC-25 bahncards"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Hamburg",
+    "startDate": "90",
+    "travellers": {
+      "adults": {
+        "1": ""
+      },
+      "youth": {
+        "1": "4"
+      }
+    },
+    "intentMedia": false,
+    "connection": "ICE",
+    "description": "Single trip for 1 adult and 1 youth < 5"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Hamburg",
+    "startDate": "90",
+    "travellers": {
+      "adults": {
+        "1": ""
+      },
+      "youth": {
+        "1": "14"
+      }
+    },
+    "intentMedia": false,
+    "connection": "ICE",
+    "description": "Single trip for 1 adult and 1 youth < 15"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Hamburg",
+    "startDate": "45",
+    "travellers": {
+      "adults": {
+        "1": ""
+      },
+      "youth": {
+        "1": "4",
+        "2": "14"
+      }
+    },
+    "intentMedia": false,
+    "connection": "ICE",
+    "description": "Single trip for 1 adult and 1 youth < 5 and 1 youth < 15"
+  },
+  {
+    "departure": "Berlin",
+    "arrival": "Hamburg",
+    "startDate": "30",
+    "travellers": {
+      "adults": {
+        "1": ""
+      },
+      "youth": {
+        "1": "15"
+      }
+    },
+    "intentMedia": false,
+    "connection": "ICE",
+    "description": "Single trip for 1 adult and 1 youth = 15"
+  }
+]

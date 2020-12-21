@@ -1,0 +1,8 @@
+de/komoot/webdriver/homepage/HomePageTest.class
+de/komoot/webdriver/util/listener/TestRetryOnFailure.class
+de/komoot/webdriver/util/listener/TestListener.class
+de/komoot/webdriver/util/listener/AnnotationTransformer.class
+de/komoot/webdriver/TestCase.class
+de/komoot/webdriver/homepage/SettingsPageTest.class
+de/komoot/webdriver/homepage/DiscoverPageTest.class
+de/komoot/webdriver/homepage/LoginPageTest.class
